@@ -1,10 +1,6 @@
-<p align="center">
-    <img alt="logo" src="https://h5-static-page.oss-cn-beijing.aliyuncs.com/public-img/vue-logo.png" width="120" height="120" style="margin-bottom: 10px;">
-</p>
+# create-vue-app
 
-## create-vue-app
-
-> A basic VUE template for Mobile、Pc、IPad, use easy and efficiency！
+A basic VUE template for Mobile、Pc、IPad, use easy and efficiency！
 
 ## Features
 
@@ -40,3 +36,4 @@
 ## LICENSE
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
